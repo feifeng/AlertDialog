@@ -1,4 +1,4 @@
-<img src="./Images/sleepwind-logo.png">
+<img src="./image/flywind-logo.png">
 
 # AlertDialog - Android
 Kotlin's AlertDialog and BottomSheetDialog
