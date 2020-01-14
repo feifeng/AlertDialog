@@ -5,9 +5,9 @@ Kotlin's AlertDialog and BottomSheetDialog
 
 ## Preview
 
-| Photo Click | Photo Drag  | Known issue  |
+| Alert Dialog | Sheet Dialog  | Progress Dialog  |
 | ------------- | ------------- | ------------- |
-| ![Photo Click](./image/alert-dialog.png)  | ![Photo Drag](./image/sheet-dialog.png)  | ![Known issue](./image/progress-dialog.png)  |
+| ![Alert Dialog](./image/alert-dialog.png)  | ![Sheet Dialog](./image/sheet-dialog.png)  | ![Progress Dialog](./image/progress-dialog.png)  |
 
 
 
