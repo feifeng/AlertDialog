@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+    <string name="alert_dialog">Alert Dialog</string>
+    <string name="sheet_dialog">Sheet Dialog</string>
+    <string name="progress_dialog">Progress Dialog</string>
+    
+
+    <string name="agree_and_use">Agree and use</string>
+    <string name="confirm">Confirm</string>
+    <string name="loading">Loading…</string>
+
+    <string name="message">Message</string>
+    <string name="cancel">Cancel</string>
+    <string name="password_login">Log in with a password</string>
+
+    <string name="sms_login_or_register">SMS Quick login or register</string>
+    <string name="mobile_phone_password_wrong">Mobile phone number or password is wrong</string>
+    <string name="logout_prompt">Logout does not delete historical data</string>
+</resources>
